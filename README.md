@@ -1,6 +1,6 @@
 🌍💱 Currency Converter Web App 💵🌐
 
-A beginner Website
+A beginner Currency Converter WEB
 
 Effortlessly convert currencies with this sleek, interactive Currency Converter Web App! 🌟
 
@@ -10,11 +10,12 @@ Effortlessly convert currencies with this sleek, interactive Currency Converter 
 
 🌈 Dynamic background with smooth gradient animation.
 
-Supports multi-currency conversion with real-time exchange rates,🇺🇸➡️🇮🇳
+Supports multi-currency conversion with real-time exchange rate,like USD -> INR ,ie.,🇺🇸➡️🇮🇳 
 
 🏳️ Includes country flags for an immersive user experience.
 
 🔄 Simple and intuitive UI with exchange rate previews.
+
 
 💡 Usage:
 
@@ -28,7 +29,11 @@ CSS (modern designs with frosted glass effects)
 
 JavaScript (API integration for real-time rates)
 
-🎨 Perfect for: A beginner-friendly web app with practical uses! 💡
+🎨 Perfect for:
+
+ A beginner-friendly web app with practical uses! 💡
 
 Check it out and start converting! 💻✨
+
+
 
